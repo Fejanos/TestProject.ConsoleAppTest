@@ -10,7 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Fetching file");
+            Console.WriteLine("Hello Pulled Github");
         }
     }
 }
